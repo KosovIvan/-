@@ -1,0 +1,37 @@
+@import '../vendor/normalize.css';
+@import '../vendor/variables.css';
+@import '../vendor/fonts/fonts.css';
+/* Blocks */
+@import '../blocks/page/page.css';
+/* Header */
+@import '../blocks/header/header.css';
+@import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__nav/header__nav.css';
+@import '../blocks/header/__phone-number/header__phone-number.css';
+@import '../blocks/header/__subtitle/header__subtitle.css';
+@import '../blocks/header/__wrap/header__wrap.css';
+@import '../blocks/header/__text/header__text.css';
+/* Main */
+@import '../blocks/main/main.css';
+/* Footer */
+@import '../blocks/footer/footer.css';
+@import '../blocks/footer/__wrap/footer__wrap.css';
+@import '../blocks/footer/__author/footer__author.css';
+@import '../blocks/footer/__reklama/footer__reklama.css';
+/* Container */
+@import '../blocks/container/container.css';
+/* Candles */
+@import '../blocks/candles/__card/candles__card.css';
+@import '../blocks/candles/__img/candles__img.css';
+@import '../blocks/candles/__text/candles__text.css';
+@import '../blocks/candles/__title/candles__title.css';
+@import '../blocks/candles/__wrap/candles__wrap.css';
+@import '../blocks/candles/candles.css';
+@import '../blocks/candles/__descr/candles__descr.css';
+/* Nav */
+@import '../blocks/nav/nav.css';
+@import '../blocks/nav/__img/nav__img.css';
+@import '../blocks/nav/__item/nav__item.css';
+@import '../blocks/nav/__link/nav__link.css';
+@import '../blocks/nav/__list/nav__list.css';
+@import '../blocks/nav/__logo/nav__logo.css';

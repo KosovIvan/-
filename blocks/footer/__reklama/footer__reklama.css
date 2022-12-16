@@ -1,0 +1,4 @@
+.footer__reklama {
+  margin: 0;
+  grid-column: 2 / 3;
+}
